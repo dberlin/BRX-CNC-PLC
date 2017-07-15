@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DockingPaneLayouts CompactMode="1">
+	<DSP_PANE_SECTION>
+		<Summary Panes="17" TopContainer="9" Client="13"/>
+		<Pane-1 Type="0" DockingCX="255" DockingCY="200" Title="Project Browser\n\n" ID="6852" DockingHolder="11" LastHolder="11"/>
+		<Pane-2 Type="0" DockingCX="275" DockingCY="286" Title="Launchpad\n\n" ID="6855" DockingHolder="11" LastHolder="11"/>
+		<Pane-3 Type="0" DockingCX="240" DockingCY="286" Title="Instruction Toolbox\n\n" ID="4381" DockingHolder="16" LastHolder="16"/>
+		<Pane-4 Type="0" DockingCX="360" DockingCY="286" Title="Data1\n\n" ID="6857" DockingHolder="14" LastHolder="14"/>
+		<Pane-5 Type="0" DockingCX="360" DockingCY="200" Title="Output\nOutput Window\n" ID="6851" DockingHolder="14" LastHolder="14"/>
+		<Pane-6 Type="0" DockingCX="360" DockingCY="286" Title="XRef View\n\n" ID="6856" DockingHolder="14" LastHolder="14"/>
+		<Pane-7 Type="0" DockingCX="360" DockingCY="286" Title="Data4\n\n" ID="6860" DockingHolder="14" LastHolder="14"/>
+		<Pane-8 Type="0" DockingCX="360" DockingCY="200" Title="Find Results 1 (Double-click to go to the corresponding location in the code block)\n\n" ID="6830" DockingHolder="15" LastHolder="15"/>
+		<Pane-9 Type="2" DockingCX="1920" Horiz="1" Panes="3" Pane-1="10" Pane-2="12" Pane-3="16"/>
+		<Pane-10 Type="2" DockingCX="275" DockingCY="286" Panes="1" Pane-1="11"/>
+		<Pane-11 Type="1" DockingCX="275" DockingCY="286" Panes="2" Selected="1" Pane-1="2" Pane-2="1"/>
+		<Pane-12 Type="2" DockingCX="1397" Panes="3" Pane-1="13" Pane-2="14" Pane-3="15"/>
+		<Pane-13 Type="4" DockingCY="450"/>
+		<Pane-14 Type="1" DockingCX="360" DockingCY="200" Panes="4" Selected="5" Pane-1="4" Pane-2="7" Pane-3="5" Pane-4="6"/>
+		<Pane-15 Type="1" DockingCX="360" DockingCY="200" Panes="1" Selected="8" Pane-1="8"/>
+		<Pane-16 Type="1" DockingCX="240" DockingCY="286" Panes="1" Selected="3" Pane-1="3"/>
+		<Pane-17 Type="5" Direction="0" Panes="0"/>
+	</DSP_PANE_SECTION>
+</DockingPaneLayouts>

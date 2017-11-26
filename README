@@ -1,5 +1,6 @@
 This repository just contains the PLC code I use to run WinCNC based CNC machine.
 It handles the I/O signals and safety (including things like ATC), as well as controlling a vacuum over
-ModBUS.
+Ethernet/IP.
 
+There is an old version that used a Click PLC (from automationdirect), and a newer version that uses a BRX PLC (also from automationdirect).
 I just like to revision control it, i'm sure it's worthless to most people, but feel free to ping me if you have questions!
